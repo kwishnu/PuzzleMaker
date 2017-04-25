@@ -1,0 +1,11 @@
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\bin\Debug\PuzzleMaker.exe.config
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\bin\Debug\PuzzleMaker.exe
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\bin\Debug\PuzzleMaker.pdb
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\bin\Debug\PuzzleMaker.xml
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\obj\Debug\PuzzleMaker.vbprojResolveAssemblyReference.cache
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\obj\Debug\PuzzleMaker.Form1.resources
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\obj\Debug\PuzzleMaker.Resources.resources
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\obj\Debug\PuzzleMaker.vbproj.GenerateResource.Cache
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\obj\Debug\PuzzleMaker.exe
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\obj\Debug\PuzzleMaker.xml
+c:\users\diane\documents\visual studio 2015\Projects\PuzzleMaker\PuzzleMaker\obj\Debug\PuzzleMaker.pdb
